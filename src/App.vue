@@ -1,31 +1,42 @@
-<template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+ <template>
+  <div>
+    <router-view></router-view>
   </div>
 </template>
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+<script>
+import Home from "./views/Home";
+import Phones from "./views/Phones";
+import TV from "./views/TV";
+import Drones from "./views/Drones";
+import Computers from "./views/Computers";
+import Cameras from "./views/Cameras";
+import Individual from "./views/Individual";
+// import {mapState} from 'vuex'
+
+export default {
+  // mounted(){
+  //   this.$store.dispatch('loadPosts')
+  // },
+  // computed:{
+  //   ...mapState(['posts'])
+  // },
+  //above is for loading the axios data
+  components: {
+    "app-Home": Home
+  },
+  data() {
+    return {
+      //
+    };
+  }
+};
+</script>
+<style scoped>
+h1 {
+  color: white;
   text-align: center;
-  color: #2c3e50;
-}
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
+  background-color: rgb(64, 206, 123);
+  padding: 20px;
 }
 </style>

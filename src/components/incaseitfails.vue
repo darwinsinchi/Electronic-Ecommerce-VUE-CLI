@@ -7,9 +7,9 @@
 </template>
 
 <script>
-import SearchBar from "../components/SearchBar.vue";
-import AllProducts from "../components/AllProducts.vue";
-import Header from "../components/Header.vue";
+import SearchBar from "./components/SearchBar.vue";
+import AllProducts from "./components/AllProducts.vue";
+import Header from "./components/Header.vue";
 
 export default {
   components: {

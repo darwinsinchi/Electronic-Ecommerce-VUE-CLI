@@ -1,0 +1,684 @@
+{
+  "BestBuy": [
+    {
+      "Name": "iPhone XS Max",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71sITK2GB1L._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71sITK2GB1L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61APAbh-CzL._SL1024_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41pnrvp3UkL._SL1024_.jpg"
+      ],
+      "Price": 1000,
+      "SubTitle": "(64GB) - Silver ",
+      "Description": "6.5-inch Super Retina display (OLED) with HDR. 12MP dual cameras with dual OIS and 7MP TrueDepth front camera—Portrait mode, Portrait Lighting, Depth Control, and Smart HDR",
+      "ID": "1",
+      "Category": "Phone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Apple"
+    },
+    {
+      "Name": "iPhone 8",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/61Q59mCBd0L._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/61Q59mCBd0L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51LXiIAOkfL._SL1024_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/415OI9KO1FL._SL1024_.jpg"
+      ],
+      "Price": 650,
+      "SubTitle": "(32GB) - Silver",
+      "Description": "4.7-Inch Retina HD display with True Tone. 12MP camera with OIS and 4K video. 7MP FaceTime HD Camera with Retina Flash",
+      "ID": "2",
+      "Category": "Phone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Apple"
+    },
+    {
+      "Name": "iPhone 6",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/913VoEdo-4L._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/913VoEdo-4L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81VNO-6ZXfL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81mBTloWkIL._SL1500_.jpg"
+      ],
+      "Price": 329,
+      "SubTitle": "(64GB) - Space Gray",
+      "Description": "4.7-inch LED-backlit IPS LCD Capacitive Touchscreen, 750 x 1334 pixel resolution with Ion-strengthened Glass, Oleophobic Coating. 8 Megapixel Camera with f/2.2, 29mm, phase detection autofocus, dual-LED (dual tone) flash, 1/3 sensor size.",
+      "ID": "3",
+      "Category": "Phone",
+      "Deal": "Yes",
+      "Deal_Price": 280,
+      "Company": "Apple"
+    },
+    {
+      "Name": "Samsung Galaxy S10",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/61cV5XnwVSL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/61cV5XnwVSL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61-rnuJCR2L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/618ZBxmXGyL._SL1500_.jpg"
+      ],
+      "Price": 1049,
+      "SubTitle": "512GB - Prism Blue",
+      "Description": "An immersive Cinematic Infinity Display, Pro-grade Camera and Wireless PowerShare. The next generation is here. Ultrasonic in-display fingerprint ID protects and unlocks with the first touch. Intelligently accesses power by learning how and when you use your phone.",
+      "ID": "4",
+      "Category": "Phone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Samsung"
+    },
+    {
+      "Name": "Samsung Galaxy S8",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71pjGN8WsoL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71pjGN8WsoL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/717JkQqs9zL._SL1326_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81P-6tNjv9L._SL1500_.jpg"
+      ],
+      "Price": 550,
+      "SubTitle": "64GB Phone - 5.8in ",
+      "Description": "Processor: Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo) CUP. 64GB Internal Memory, 4GB RAM (no memory card slot to expand memory). ",
+      "ID": "5",
+      "Category": "Phone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Samsung"
+    },
+    {
+      "Name": "Samsung Galaxy S6",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/81XmzLOqKDL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/81XmzLOqKDL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81jVTy2Pw7L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81yHyiLS2xL._SL1500_.jpg"
+      ],
+      "Price": 200,
+      "SubTitle": "32 GB -Black Sapphire",
+      "Description": "5.1-inch Super AMOLED Capacitive Touchscreen, 1440 x 2560 pixel resolution with Corning Gorilla Glass 4. Android v5.0 Lollipop (Upgradeable), Chipset: Exynos 7420 Octa, Processor: Octa-Core (Quad-Core 2.1 GHz Cortex-A57 & Quad-Core 1.5 GHz Cortex-A53), GPU: Mali-T760MP8.",
+      "ID": "6",
+      "Category": "Phone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Samsung"
+    },
+    {
+      "Name": "Huawei P30",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/61jJeZBliWL._SL1000_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/61jJeZBliWL._SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ut5%2BTxguL._SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61vsjuFti-L._SL1000_.jpg"
+      ],
+      "Price": 700,
+      "SubTitle": "128GB+6GB RAM - Black",
+      "Description": "6.1 inches 1080 x 2340 pixels, 19.5:9 ratio (~422 ppi density) - IP53 dust and splash protection - Android 9.0 + EMUI 9.0. Rear Camera: 40 MP, f/1.8, 27mm (wide) + 16 MP, f/2.2, 17mm (ultrawide) + 8 MP, f/2.4, 80mm (telephoto) - Front Camera: 32 MP, f/2.0, (wide) - Video: 2160p@30fps.        ",
+      "ID": "7",
+      "Category": "Phone",
+      "Deal": "Yes",
+      "Deal_Price": 499,
+      "Company": "Huawei"
+    },
+    {
+      "Name": "Huawei Ascend XT",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71fEq%2BGi6iL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71fEq%2BGi6iL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61CP5sJDkrL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31u9hcwVc9L.jpg"
+      ],
+      "Price": 150,
+      "SubTitle": "4G LTE Extra Large Cell - Black",
+      "Description": "HARDWARE SPECKS: Well the battery has 3000mAh which in a Usage time frame means 17 solid hours of streaming at 4G LTE speeds as well it has a Standby time of up to 720 hours before you need to recharge the battery this device comes with a 6 in the screen which is well over 1 inch larger than the standard cell phones on the market perfect for the seniors or people that are hard of seeing as well as movie lovers and those that like to carry a brick with them wherever they go.",
+      "ID": "8",
+      "Category": "Phone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Huawei"
+    },
+    {
+      "Name": "Apple MacBook Air",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/51xZz6jSHSL._SL1024_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/51xZz6jSHSL._SL1024_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51u%2BQM%2BJrfL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31nAQISc6FL._SL1024_.jpg"
+      ],
+      "Price": 1300,
+      "SubTitle": "13-inch Retina display",
+      "Description": "Stunning 13. 3-Inch Retina Display. Touch ID. Dual-core 8th-Generation Intel Core i5 Processor. Intel UHD Graphics 617. 8GB memory.",
+      "ID": "9",
+      "Category": "Computer",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Apple"
+    },
+    {
+      "Name": "Apple MacBook Pro ",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/31fD%2BNPpVqL.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/31fD%2BNPpVqL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Y9LFA9VSL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ZpIk4aOZL.jpg"
+      ],
+      "Price": 1500,
+      "SubTitle": "15in Core i7 2.5GHz ",
+      "Description": "Apple MacBook Pro 15 Core i7 2.5GHz Retina. 16GB Memory, 512GB Solid State Drive. Dual graphics processors: NVIDIA GeForce GT 750M with 2 GB of dedicated memory and an integrated Intel Iris 5200 Pro graphics processor",
+      "ID": "10",
+      "Category": "Computer",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Apple"
+    },
+    {
+      "Name": "VAIO SX14",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71CwVBnShDL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71CwVBnShDL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71h6w3R1bpL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/619TKFzX9iL._SL1500_.jpg"
+      ],
+      "Price": 1300,
+      "SubTitle": "Intel Core i5-8265U | 8GB Memory (RAM)",
+      "Description": "Intel Core i5-8265U. 8GB Memory (RAM). 256GB PCIe SSD.",
+      "ID": "11",
+      "Category": "Computer",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Sony"
+    },
+    {
+      "Name": "VAIO SVD13223CXB",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/41EZQlgwvLL.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/41EZQlgwvLL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81mjGUPNJAL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/718YsS7FRvL._SL1500_.jpg"
+      ],
+      "Price": 900,
+      "SubTitle": "13.3-Inch Convertible 2 in 1 Touchscreen Ultrabook ",
+      "Description": "Intel Intel Core i5-4200U 1.6 GHz. 4 GB. 128 GB Solid-State Drive. 13.3-Inch Screen, Intel HD Graphics 4400. Windows 8.1.",
+      "ID": "12",
+      "Category": "Computer",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Sony"
+    },
+    {
+      "Name": "Microsoft Surface Pro 6",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/61IFJ6mViCL._SL1200_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/61IFJ6mViCL._SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ljxd77pXL._SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/519NUJ4pLPL._SL1200_.jpg"
+      ],
+      "Price": 900,
+      "SubTitle": "Intel Core i5, 8GB RAM, 128GB",
+      "Description": "A best-in-class laptop with the versatility of a studio and tablet. More power — now with the new 8th Generation Intel Core processor. Ultra-slim and light, starting at just 1.7 pounds. All-day battery life, with up to 13.5 hours of video playback.",
+      "ID": "13",
+      "Category": "Computer",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Microsoft"
+    },
+    {
+      "Name": "Lenovo Flex",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/81oUcmzZwLL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/81oUcmzZwLL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/813959onHcL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81xB5TDiY3L._SL1500_.jpg"
+      ],
+      "Price": 800,
+      "SubTitle": "2-in-1 Convertible Laptop, 14 Inch FHD",
+      "Description": "Up to 8 hours of battery life with quick recharge technology to power your laptop computer up to 80%. Comprehensive protection with Windows 10 helps protect against viruses, malware, and ransomware. Convenient TrueBlock privacy shutter allows you to physically close your webcam when you're not using it. The included Active Pen lets you draw or take notes directly on the screen, anywhere you go.",
+      "ID": "14",
+      "Category": "Computer",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Lenovo"
+    },
+    {
+      "Name": "Lenovo ThinkPad E580",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71%2BL6QoupvL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71%2BL6QoupvL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71VZ6%2BmFY2L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71L6Qj-OWaL._SL1500_.jpg"
+      ],
+      "Price": 950,
+      "SubTitle": "15.6 Inch HD Business Laptop",
+      "Description": "Memory: 8GB DDR4 RAM, Storage: 256GB Samsung PCIe 3.0(x4) NVMe SSD M.2 SSD (Seal is broken for upgrades Only, Professional Installation Service included). 15.6-Inch Anti-Glare (1366x768) Display with Front Facing HD Webcam | Integrated Intel HD Graphics 620 - Supports external digital monitor via HDMI or USB Type-C.",
+      "ID": "15",
+      "Category": "Computer",
+      "Deal": "Yes",
+      "Deal_Price": 600,
+      "Company": "Lenovo"
+    },
+    {
+      "Name": "Acer Aspire 5",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81vNRgHlqGL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71RASfOB8IL._SL1500_.jpg"
+      ],
+      "Price": 700,
+      "SubTitle": "AMD Ryzen 3 3200U, Vega 3 Graphics",
+      "Description": "AMD Ryzen 3 3200U Dual-Core Processor (Up to 3.5GHz) | 4GB DDR4 Memory | 128GB PCIe NVMe SSD. 15.6 inch Full HD (1920 x 1080) Widescreen LED-backlit IPS Display | AMD Radeon Vega 3 Mobile Graphics. 1 - USB 3.1 Gen 1 Port, 2 - USB 2.0 Ports & 1 - HDMI Port with HDCP support.",
+      "ID": "16",
+      "Category": "Computer",
+      "Deal": "Yes",
+      "Deal_Price": 550,
+      "Company": "Acer"
+    },
+    {
+      "Name": "JJRC H68G Drone",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/61Oa7kTSIcL._SL1200_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/61Oa7kTSIcL._SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61VmggMAMuL._SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61yAao-3mTL._SL1200_.jpg"
+      ],
+      "Price": 160,
+      "SubTitle": "Black Drone -980 ft Distance",
+      "Description": "720P HD Camera: With 5Ghz WiFi transmission tech, with 120°wide angle 720P HD camera and 90° adjustable angle help you view the world with multiple angle, record every wonderful aerial moment and enjoy fluent images and videos real-time transmission. One button to adjust the camera down 90°.",
+      "ID": "17",
+      "Category": "Drone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "JJRC"
+    },
+    {
+      "Name": "SNAPTAIN S5C ",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71-LV9vYPmL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71-LV9vYPmL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61jqeHv-RrL._SL1014_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71E6GWAv03L._SL1014_.jpg"
+      ],
+      "Price": 70,
+      "SubTitle": "Drone with 720P HD Camera",
+      "Description": "The SNAPTAIN S5C provides video transmission within a range of up to 80m. Edit and upload instantly your videos on Social Media by iPhone or a 720p video transmission signal up to a scale of 80m, allowing you to fly farther. Edit HD footage and directly upload it to social media from your iPhone or iPad. The video clips are automatically saved to the Micro SD card.",
+      "ID": "18",
+      "Category": "Drone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "SNAPTAIN"
+    },
+    {
+      "Name": "DJI Mavic Air",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/51fQzf-RtuL._SL1000_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/51fQzf-RtuL._SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/613juOq3j8L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51okvIhrYGL._SL1000_.jpg"
+      ],
+      "Price": 705,
+      "SubTitle": "Air Quadcopter with Remote Controller - Arctic White",
+      "Description": "The Mavic Air shoots video at an incredible 4K 30 fps, recording at 100 Mbps to capture every second with UHD quality. As tall and wide as a smartphone when folded, the Mavic Air is an ultraportable drone that stretches the boundaries of what's possible for a device its size.",
+      "ID": "19",
+      "Category": "Drone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "DJI"
+    },
+    {
+      "Name": "DJI Mavic 2 Pro",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/41yafb6F%2BVL._SL1000_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/41yafb6F%2BVL._SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51AKEdeaueL._SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Hgtfa1mTL._SL1000_.jpg"
+      ],
+      "Price": 1500,
+      "SubTitle": "Quadcopter with Hasselblad Camera HDR Video",
+      "Description": "Up to 31 minutes flight time, 44 mph max speed, 907g takeoff weight, 3-axis gimbal for steady shots, 8GB internal storage, SD card support up to 128 GB. Functions include ActiveTrack 2.0, Omnidirectional Obstacle Sensing, Hyperlapse, Low-Noise Design, Adjustable Aperture, HDR Photos.",
+      "ID": "20",
+      "Category": "Drone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "DJI"
+    },
+    {
+      "Name": "DJI Spark ",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71yKkORLF6L._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71yKkORLF6L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31GCAG2aatL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41kNMRkzpxL.jpg"
+      ],
+      "Price": 600,
+      "SubTitle": "Portable Mini Drone Alpine White ",
+      "Description": "2-Axis Stabilized Gimbal Camera; 12MP Still Photos / 1080p/30 Video. Top Speed of 31 mph in Sport Mode; Up to 16 Minutes Flying Time, Up to 1.2 Mile Control Range; Control, Edit, Share with DJI GO App",
+      "ID": "21",
+      "Category": "Drone",
+      "Deal": "Yes",
+      "Deal_Price": 450,
+      "Company": "DJI"
+    },
+    {
+      "Name": "Parrot Bebop",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/61lmGrkwjDL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/61lmGrkwjDL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61BW%2BZsQrrL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61bsceuq6tL._SL1500_.jpg"
+      ],
+      "Price": 250,
+      "SubTitle": "Quadcopter Drone - Red-Black ",
+      "Description": "Take clear photos and videos using advanced 3-axis image stabilization Control your experience with our Free Flight 3 app (iOS, Android, Windows 8.1). Explore the world in 14 megapixel full HD 1080p and capture any vista with Bebop's 180 field of view.",
+      "ID": "22",
+      "Category": "Drone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Parrot"
+    },
+    {
+      "Name": "DBPOWER X400W",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71SumQ%2BeGSL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71SumQ%2BeGSL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71jXb7RrmbL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71Te36MMpHL._SL1348_.jpg"
+      ],
+      "Price": 60,
+      "SubTitle": "Quadcopter Drone with WiFi Camera Live Video",
+      "Description": "3D SPLIT SCREEN DISPLAY: Compatible with 3D VR HEADSET on MJX FPV APP, use your own VR HEADSET (NOT INCLUDED) to see the world in a different way. FPV REAL TIME TRANSMISSION: Connect your phone with the drone and the view will be shown directly on your phone, thus enjoy the world above the horizon",
+      "ID": "23",
+      "Category": "Drone",
+      "Deal": "Yes",
+      "Deal_Price": 50,
+      "Company": "DBPOWER"
+    },
+    {
+      "Name": "Holy Stone HS170",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71q4lj5Gh2L._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71q4lj5Gh2L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71NZ86kMkDL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71pOxEyXCqL._SL1500_.jpg"
+      ],
+      "Price": 50,
+      "SubTitle": "Mini RC Helicopter Drone 2.4Ghz 6-Axis Gyro",
+      "Description": "2. 4GHz technology adopted for anti-interference. More stable and flexible with 6-axis gyro stabilization system.",
+      "ID": "24",
+      "Category": "Drone",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Holy Stone"
+    },
+    {
+      "Name": "Canon PowerShot SX530",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/51ppTx%2BIG4L.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/51ppTx%2BIG4L.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41IXlj351hL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41XWbXSjFZL.jpg"
+      ],
+      "Price": 260,
+      "SubTitle": "Digital Camera with 50x Optical Image Stabilized Zoom",
+      "Description": "16.0 Megapixel High-Sensitivity CMOS sensor combined with the Canon DIGIC 4+ Image Processor. Capture stunning 1080p Full HD video with a dedicated movie button.",
+      "ID": "25",
+      "Category": "Camera",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Canon"
+    },
+    {
+      "Name": "Canon EOS RP",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71mQOSf90yL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71mQOSf90yL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71ytAHyBSgL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71UC6cN8GoL._SL1500_.jpg"
+      ],
+      "Price": 1300,
+      "SubTitle": "Mirrorless Camera Body",
+      "Description": "High image quality with 26. 2 Megapixel Full-frame CMOS Sensor and DIGIC 8 Image processor. Dual Pixel CMOS AF for fast and accurate auto focus.",
+      "ID": "26",
+      "Category": "Camera",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Canon"
+    },
+    {
+      "Name": "Canon EOS RP X200",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71RGuPFOlbL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71RGuPFOlbL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71b0xXbrZbL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71UC6cN8GoL._SL1500_.jpg"
+      ],
+      "Price": 2200,
+      "SubTitle": "Mirrorless Camera with RF 24-105mm",
+      "Description": "High Image Quality with 26.2 Megapixel Full-frame CMOS Sensor and DIGIC 8 Image Processor. Dual Pixel CMOS AF for Fast and Accurate Auto Focus.",
+      "ID": "27",
+      "Category": "Camera",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Canon"
+    },
+    {
+      "Name": "Sony DSCH300/B",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71bkHapvTRL._SL1200_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71bkHapvTRL._SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/716mDF-xPsL._SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71FjdyKp8AL._SL1200_.jpg"
+      ],
+      "Price": 300,
+      "SubTitle": "Digital Camera (Black)",
+      "Description": "Operating temperature:-10 ~ +40℃ (operation) / -20 ~ +60℃ (storage).201MP Super HAD CCD sensor for beautifully detailed images. Minimized blur with Optical SteadyShot Image stabilization.",
+      "ID": "28",
+      "Category": "Camera",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Sony"
+    },
+    {
+      "Name": "Sony Alpha a6000",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/41bWFIqWsKL.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/41bWFIqWsKL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61Yk0rYITCL._SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61BaPyiGiTL._SL1200_.jpg"
+      ],
+      "Price": 490,
+      "SubTitle": "Mirrorless Digitial Camera 24.3MP SLR Camera",
+      "Description": "24 MP APS-C CMOS sensor and Focus Sensitivity Range :EV 0 to EV 20 (at ISO 100 equivalent with F2.8 lens attached). Hybrid AF with 179-point focal plane phase-detection and 25 contrast detect points.",
+      "ID": "29",
+      "Category": "Camera",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Sony"
+    },
+    {
+      "Name": "Sony DSCWX350",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/41y5vxJOkvL.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/41y5vxJOkvL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/616Q8UKBpzL._SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/511sYH5OZML._SL1200_.jpg"
+      ],
+      "Price": 270,
+      "SubTitle": "18 MP Digital Camera (Black)",
+      "Description": "20x Optical/40x Clear Image Zoom G Lens. 4K quality still image output via HDMI2. Sweep Panorama mode (up to 360).",
+      "ID": "30",
+      "Category": "Camera",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Sony"
+    },
+    {
+      "Name": "Nikon COOLPIX P900",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/81IXGbHS%2BLL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/81IXGbHS%2BLL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/91DjUY1PbFL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81N46xze9JL._SL1500_.jpg"
+      ],
+      "Price": 800,
+      "SubTitle": "Digital Camera with 83x Optical Zoom",
+      "Description": "24-2000mm 35mm Equivalent Focal Length. Sensor Size: 1/2.3 inch. 16MP CMOS Sensor;6-level brightness adjustment. Full HD 1080/60p Video.",
+      "ID": "31",
+      "Category": "Camera",
+      "Deal": "Yes",
+      "Deal_Price": 650,
+      "Company": "Nikon"
+    },
+    {
+      "Name": "Nikon Coolpix A300",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/91rjumaWNEL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/91rjumaWNEL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/91rjOliqskL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/91XvWE3oGLL._SL1500_.jpg"
+      ],
+      "Price": 250,
+      "SubTitle": "20 MP Point & Shoot Digital Camera, Silver",
+      "Description": "Capture what’s happening from wide-angle to telephoto with 8x optical zoom NIKKOR glass lens/16x Dynamic Fine Zoom. High resolution 20.1-megapixel image sensor.",
+      "ID": "32",
+      "Category": "Camera",
+      "Deal": "Yes",
+      "Deal_Price": 200,
+      "Company": "Nikon"
+    },
+    {
+      "Name": "Sceptre Class 45",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/61WBhbBbjCL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/61WBhbBbjCL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61gtMGYfmQL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51TUxyVhOOL._SL1500_.jpg"
+      ],
+      "Price": 600,
+      "SubTitle": "4K (2160P) LED TV ",
+      "Description": "64.5 inch diagonal screen size. HDMI Inputs: 4",
+      "ID": "33",
+      "Category": "TV",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Sceptre"
+    },
+    {
+      "Name": "Sony XBR65X850F 65-Inch",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/916PXja90YL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/916PXja90YL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81bqSXPehwL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61H3%2BsZOzFL._SL1500_.jpg"
+      ],
+      "Price": 999,
+      "SubTitle": "4K Ultra HD Smart LED TV",
+      "Description": "Take non-HDR content to the next level with the X1 processor and 4K X-Reality PRO. 4K HDR - HDR10, and HLG for incredible detail and clarity.",
+      "ID": "34",
+      "Category": "TV",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Sony"
+    },
+    {
+      "Name": "Sony XBR65A8F 65-Inch",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/7123XF65NmL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/7123XF65NmL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51AM%2BeEXJFL._SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51AM%2BeEXJFL._SL1200_.jpg"
+      ],
+      "Price": 5000,
+      "SubTitle": "4K Ultra HD Smart BRAVIA OLED TV",
+      "Description": "OLED IMAGING: 8 million self-illuminating pixels achieve the perfect black for stunningly real color. PREMIUM 4K HDR: X1 Extreme Processor delivers IMAX quality for an enhanced movie and show experience.",
+      "ID": "35",
+      "Category": "TV",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Sony"
+    },
+    {
+      "Name": "LG OLED65C9PUA C9 Series 65 inch",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/A14Mg3cA%2BmL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/A14Mg3cA%2BmL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/919ejFQSksL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51YAAPls74L._SL1500_.jpg"
+      ],
+      "Price": 2500,
+      "SubTitle": "4K Ultra HD Smart OLED TV",
+      "Description": "Images, action and color are brought to new life to instantly enhance picture quality through LG's best 4K processor, empowered by AI at its core. LG OLED is a new type of thin. The TV's individually lit pixels require no backlight, making it a thing of beauty on the wall or on its premium stand.",
+      "ID": "36",
+      "Category": "TV",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "LG"
+    },
+    {
+      "Name": "Samsung UN40NU7100FXZA Flat 40 inch",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/A1I7u42J4uL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/A1I7u42J4uL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61Et9gACK9L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81NCvvRabqL._SL1000_.jpg"
+      ],
+      "Price": 600,
+      "SubTitle": "4K UHD 7 Series Smart LED TV",
+      "Description": "PurColor: Enjoy millions of shades of color, fine tuned to create an incredibly vibrant picture. Motion Rate 120: Smooth action on fast-moving content. HDR: View stunning high dynamic range content with a TV designed to support HDR10+. ",
+      "ID": "37",
+      "Category": "TV",
+      "Deal": "Yes",
+      "Deal_Price": 550,
+      "Company": "Samsung"
+    },
+    {
+      "Name": "Samsung QN49Q60RA 49 inch",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/71PXc2lEImL._SL1000_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/71PXc2lEImL._SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/717m19S62uL._SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41YJbBtFW7L._SL1000_.jpg"
+      ],
+      "Price": 700,
+      "SubTitle": "QLED Smart 4K UHD TV",
+      "Description": "Quantum Dot technology lets you experience images bursting with a dazzling range of over one billion colors, each upscaled to incredible clarity thanks to our intelligent 4K processor.",
+      "ID": "38",
+      "Category": "TV",
+      "Deal": "Yes",
+      "Deal_Price": 620,
+      "Company": "Samsung"
+    },
+    {
+      "Name": "Samsung UN43LS03N 43 inch",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/61WhTRUhiUL._SL1000_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/61WhTRUhiUL._SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61gLAEwJ0LL._SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Av5un4tcL._SL1000_.jpg"
+      ],
+      "Price": 1900,
+      "SubTitle": "The Frame Premium 4K UHD TV",
+      "Description": "43in 4K UHD TV with HDR Art Mode Art Store Customizable Frame Samsung Collection No Gap Wall Mount",
+      "ID": "39",
+      "Category": "TV",
+      "Deal": "Yes",
+      "Deal_Price": 1800,
+      "Company": "Samsung"
+    },
+    {
+      "Name": "Element ELSW3917BFR 39 inch",
+      "Picture1": "https://images-na.ssl-images-amazon.com/images/I/81cZ0way0EL._SL1500_.jpg",
+      "Picture2": [
+        "https://images-na.ssl-images-amazon.com/images/I/81cZ0way0EL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71waa%2Bot02L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61ocZGUeH3L._SL1500_.jpg"
+      ],
+      "Price": 300,
+      "SubTitle": "Smart HD TV",
+      "Description": "Element Smart Interface - Netflix, YouTube, VUDU. Component & HDMI Support: 480i/576i/480p/586p/720p/1080i/1080p.",
+      "ID": "40",
+      "Category": "TV",
+      "Deal": "No",
+      "Deal_Price": null,
+      "Company": "Element"
+    }
+  ]
+}
